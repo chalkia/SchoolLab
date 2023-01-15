@@ -6,3 +6,4 @@ H εφαρμογή schoolLab είναι μια Android εφαρμογή για �
 
 <table><tbody><tr><td><p>Κατεβάστε στην συσκευή σας το αρχείο εγκατάστασης SchoolLab.apk&nbsp;<br>που βρίσκεται εδώ ή εγκαταστήστε το με το παρακάτω Qr Code.&nbsp;</p><p>H εφαρμογή δεν κατεβαίνει από το αποθετήριο της Google οπότε &nbsp;<br>θα πρέπει να αγνοήσετε τις προειδοποιήσεις σχετικά με την ασφάλεια και να&nbsp;<br>αποδεχτείτε την εγκaτάσταση στη συσκευή σας</p></td><td> ![QrCode](https://i.imgur.com/Y3ZqQto.png) .</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td></tr></tbody></table>
 ![QrCode](https://i.imgur.com/Y3ZqQto.png)
+![enter image description here](https://i.imgur.com/Y3ZqQto.png)
